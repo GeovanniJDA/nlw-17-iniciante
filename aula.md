@@ -3,7 +3,7 @@
 Maneira de dar instrução ao computador.
 Como um lego, você irá ultilizar peças para criar algoritimos, ou seja, para resolver problemas.
 
-> **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+> 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
 
@@ -20,3 +20,18 @@ Como um lego, você irá ultilizar peças para criar algoritimos, ou seja, para 
 Coletar os dados
 Processar os dados (manipular, alterar...)
 Apresentar os dados
+
+## Escopo e variáveis:
+
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados:
+
+Strings (textos): "" '' ``
+Numbers: 1 2 3.5
+Function
+
+## Operadores 
+
+Operadores de atribuição de valor
